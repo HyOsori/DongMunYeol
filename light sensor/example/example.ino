@@ -8,9 +8,9 @@ void setup() {
 void loop() {
   //Plug CdS cell into Analog pin 0
   cds_value = analogRead(A0);
-  //You can see the brightness value
-  //Serial.print("CdS : ");
-  //Serial.print(cds_value);
+  //You can see the brightness value through serial monitor
+  Serial.print("CdS : ");
+  Serial.print(cds_value);
   
   // Demo brightness : 300
   if(cds_value < 300){
