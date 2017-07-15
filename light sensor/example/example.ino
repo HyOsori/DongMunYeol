@@ -1,36 +1,23 @@
-
-int trig_pin = 2;
-int echo_pin = 3;
-float duration, distance;
+int cds_value = 0;
 
 void setup() {
   // Setting for serial connection.
   Serial.begin(9600);
-
-  // Setting for input,output
-  pinMode(trig_pin, OUTPUT);
-  pinMode(echo_pin, INPUT);
-
 }
 
 void loop() {
-  digitalWrite(trig_pin, HIGH);
-  // Delay time : 1 sec
-  delay(1000);
-  digitalWrite(trig_pin, LOW);
-
-  // Write duration of high state at echo pin.
-  duration = pulseIn(echo_pin, HIGH);
+  //Plug CdS cell into Analog pin 0
+  cds_value = analogRead(A0);
+  //You can see the brightness value
+  //Serial.print("CdS : ");
+  //Serial.print(cds_value);
   
-  // Ultrasonic velocity : 340 m/s, Think about round trip
-  distance = ((float)(340*duration)/10000)/2;
-
-  // Demo distance : 10cm
-  if(distance < 10){
+  // Demo brightness : 300
+  if(cds_value < 300){
     Serial.print("Open!\n");
   }
   else{
     Serial.print("Close!\n");
   }
-  delay(3000);
+  delay(100);
 }
