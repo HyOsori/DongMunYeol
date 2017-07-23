@@ -32,5 +32,5 @@ void loop() {
   else{
     Serial.print("Close!\n");
   }
-  delay(3000);
+  delay(100);
 }
