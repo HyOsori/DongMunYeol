@@ -1,7 +1,7 @@
 # DongMunYeol : Osori's private room checking system
 
 ## Overview
-- This project is designed to solve how to check whether Osori's private room is open. By considering feature of room, we divide soulution into 3 steps. Each step is being implemented, and we will decide which step is the most accurate and simplest solution.
+- This project is designed to solve how to check whether Osori's private room is open. By considering feature of room, we divide solution into 3 steps. Each step is being implemented, and we will decide which step is the most accurate and simplest solution.
 
 ## Specification
 ### Arduino & Board
@@ -35,3 +35,7 @@ https://www.youtube.com/watch?v=QM-i1seSgpQ
 
 **Nominee 3.**
 ![three](/uploads/badgerlike.PNG)
+
+## Network
+### Connection to Server
+### Using Chatbot
