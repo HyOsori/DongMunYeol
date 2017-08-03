@@ -13,10 +13,32 @@
 
 ## Step 1
 
-## Step 2
+## Step 2 : Light Sensor
+- Decision is made based on the brightness of the light (measured by cds values). 
+If the cds value is greater than 400, the light is turned off, sending a message “Opened!” on the screen. 
+If the cds value is less than or equal to 400, then the light is turned on, with a message “Closed!” displayed on the screen. 
+
+
+Thus, by using the light sensor and Arduino, it can be checked whether the Osori room is open or not. 
+
+Note:
+Normally, when the light is bright, the resistance is lowered, resulting in higher voltage. 
+However, when a pull-up resistance is used, it gives out an opposite output, where there’s a lower voltage when the light is bright. (Connected to VCC)
+In the case of a pull-down resistance, when the light is bright, the voltage is increased. (Connected to GND)
+
+Images of the light sensor along with the Arduino is provided below. 
+
+![Light sensor 1](/uploads/Light sensor 1.jpg)
+
+
+![Light sensor 2](/uploads/Light sensor 2.jpg)
+
+
+![Light sensor 3](/uploads/Light sensor 3.jpg)
+
 
 ## Step 3 : Ultrasonic Sensor
-- Decision is done by difference between long distance(over 10cm, Meaning close) and short distance(within 10cm, Meaning open). When room's card key is placed into key holder, distance calculated by ultrasonic sensor is shortened(within 10cm). Therefore arduino can decide whether room is open or not.
+- Decision is made by difference between long distance(over 10cm, Meaning close) and short distance(within 10cm, Meaning open). When room's card key is placed into key holder, distance calculated by ultrasonic sensor is shortened(within 10cm). Therefore arduino can decide whether room is open or not.
 
 - Sensor picture(connected to arduino)
 ![ultrasonic_sensor](/uploads/ultrasonic.jpg)
