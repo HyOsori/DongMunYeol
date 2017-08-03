@@ -28,14 +28,16 @@ In the case of a pull-down resistance, when the light is bright, the voltage is 
 
 Images of the light sensor along with the Arduino is provided below. 
 
-![Light sensor 1](/uploads/Light sensor 1.jpg)
+![Light sensor 1](/uploads/Light_sensor_1.jpg)
 
 
-![Light sensor 2](/uploads/Light sensor 2.jpg)
+![Light sensor 2](/uploads/Light_sensor_2.jpg)
 
 
-![Light sensor 3](/uploads/Light sensor 3.jpg)
+![Light sensor 3](/uploads/Light_sensor_3.jpg)
 
+-Demo video
+https://www.youtube.com/watch?v=k8ZkReE8DSc
 
 ## Step 3 : Ultrasonic Sensor
 - Decision is made by difference between long distance(over 10cm, Meaning close) and short distance(within 10cm, Meaning open). When room's card key is placed into key holder, distance calculated by ultrasonic sensor is shortened(within 10cm). Therefore arduino can decide whether room is open or not.
@@ -43,7 +45,7 @@ Images of the light sensor along with the Arduino is provided below.
 - Sensor picture(connected to arduino)
 ![ultrasonic_sensor](/uploads/ultrasonic.jpg)
 
-- Demmo video  
+- Demo video  
 https://www.youtube.com/watch?v=QM-i1seSgpQ
 
 ## Design(For step 3)
