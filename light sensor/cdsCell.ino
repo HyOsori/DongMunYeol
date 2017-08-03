@@ -2,30 +2,29 @@ int cds = A0;
 int led = 3;
 
 void setup() {
-  // put your setup code here, to run once:
+
   Serial.begin(9600);
   pinMode(led, OUTPUT);
 
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  
   int cdsValue = analogRead(cds);
 
   Serial.print("cds = ");
   Serial.println(cdsValue);
 
-  if (cdsValue>  200) {
+  if (cdsValue>  400) { // when the light is off (door opened)
     digitalWrite(led, LOW);
-
-    Serial.println("LED OFF (CDS > 200)");
+    Serial.println("Opened!");
   }
 
-  else {
+  else { // when the light is turned on (door closed)
     digitalWrite (led, HIGH);
-    Serial.println("LED ON (CDS <= 200)");
+    Serial.println("Closed!");
   }
 
-  delay(200);
+  delay(1000);
 
 }
