@@ -43,7 +43,7 @@ Images of the light sensor along with the Arduino is provided below.
 
 ![Light sensor 3](/uploads/Light_sensor_3.jpg)
 
--Demo video
+- Demo video
 https://www.youtube.com/watch?v=k8ZkReE8DSc
 
 ## Step 3 : Ultrasonic Sensor
