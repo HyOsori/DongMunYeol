@@ -67,6 +67,18 @@ https://www.youtube.com/watch?v=QM-i1seSgpQ
 **Nominee 3.**
 ![three](/uploads/badgerlike.PNG)
 
+**Nominee 4.**
+![four](/uploads/img_BMO.PNG)  
+
+**Nominee 5.**
+![five](/uploads/img_cupcake.PNG)  
+
+**Nominee 6.**
+![six](/uploads/img_house.PNG)
+
+**Nominee 7.**
+![seven](/uploads/RiceBowl.PNG)
+
 ## Network
 ### Connection to Server
 ### Using Chatbot
