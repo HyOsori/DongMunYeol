@@ -68,15 +68,19 @@ https://www.youtube.com/watch?v=QM-i1seSgpQ
 ![three](/uploads/badgerlike.PNG)
 
 **Nominee 4.**
+
 ![four](/uploads/img_BMO.png)  
 
 **Nominee 5.**
+
 ![five](/uploads/img_cupcake.png)  
 
 **Nominee 6.**
+
 ![six](/uploads/img_house.png)
 
 **Nominee 7.**
+
 ![seven](/uploads/RiceBowl.png)
 
 ## Network
