@@ -10,7 +10,7 @@ https://docs.djangoproject.com/en/1.10/howto/deployment/wsgi/
 import os, sys
 
 sys.path.append('./')
-sys.path.append('./venv/lib/python3.6/site-packages')
+sys.path.append('./chat_venv/lib/python3.6/site-packages')
 
 from django.core.wsgi import get_wsgi_application
 
