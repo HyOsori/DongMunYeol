@@ -85,4 +85,16 @@ https://www.youtube.com/watch?v=QM-i1seSgpQ
 
 ## Network
 ### Connection to Server
+#### Server Environment
+- Remote Server : Naver Cloud Platform(NCloud)
+- Language : Python3
+  - version : 3.5.2
+- Framework: Django
+  - version : 1.11.5
+
 ### Using Chatbot
+- In order to let the club members know that the club room door has been opened or not, We set up Kakao Talk chat room '오소리'.
+
+- How to use?
+  - Search for '오소리' in KakaoTalk and add a friend to use the service.
+- auto reply API : https://github.com/plusfriend/auto_reply
