@@ -11,11 +11,23 @@ def keyboard(request):
 def message(request):
     if(isopen == 1):
         return JsonResponse({
-            "text" : "Open!"
+            "message":{
+                "text" : "Open!"
+            },
+            "keyboard":{
+                'type': 'buttons',
+                'buttons': ['DongMunYeol?']
+            }
         })
     elif(isopen == 0):
         return JsonResponse({
-            "text" : "Close!"
+            "message":{
+                "text" : "Close!"
+            },
+            "keyboard":{
+                'type': 'buttons',
+                'buttons': ['DongMunYeol?']
+            }
         })
 
 
