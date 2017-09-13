@@ -1,4 +1,5 @@
 from django.http import JsonResponse
+from django.views.decorators.csrf import csrf_exempt
 
 isopen = 0
 
@@ -8,23 +9,24 @@ def keyboard(request):
         'buttons' : ['DongMunYeol?']
         })
 
+@csrf_exempt
 def message(request):
     if(isopen == 1):
         return JsonResponse({
-            "message":{
-                "text" : "Open!"
+            'message':{
+                'text' : 'Open!'
             },
-            "keyboard":{
+            'keyboard':{
                 'type': 'buttons',
                 'buttons': ['DongMunYeol?']
             }
         })
     elif(isopen == 0):
         return JsonResponse({
-            "message":{
-                "text" : "Close!"
+            'message':{
+                'text' : 'Close!'
             },
-            "keyboard":{
+            'keyboard':{
                 'type': 'buttons',
                 'buttons': ['DongMunYeol?']
             }
