@@ -1,0 +1,674 @@
+[13/Sep/2017 21:15:50] "GET /keyboard HTTP/1.1" 200 48
+[13/Sep/2017 21:15:51] "POST /message HTTP/1.1" 200 93
+[13/Sep/2017 21:15:57] "POST /message HTTP/1.1" 200 93
+[13/Sep/2017 21:15:58] "POST /message HTTP/1.1" 200 93
+[13/Sep/2017 21:15:59] "POST /message HTTP/1.1" 200 93
+[13/Sep/2017 21:15:59] "POST /message HTTP/1.1" 200 93
+[13/Sep/2017 21:16:01] "POST /message HTTP/1.1" 200 93
+[13/Sep/2017 21:17:05] "GET /keyboard HTTP/1.1" 200 48
+[13/Sep/2017 21:17:06] "POST /message HTTP/1.1" 200 93
+[13/Sep/2017 21:17:08] "POST /message HTTP/1.1" 200 93
+[13/Sep/2017 21:17:09] "POST /message HTTP/1.1" 200 93
+[13/Sep/2017 21:18:03] "GET /keyboard HTTP/1.1" 200 48
+[13/Sep/2017 21:18:04] "POST /message HTTP/1.1" 200 93
+[13/Sep/2017 21:32:20] "GET /keyboard HTTP/1.1" 200 48
+[13/Sep/2017 21:32:22] "POST /message HTTP/1.1" 200 93
+[13/Sep/2017 21:32:24] "POST /message HTTP/1.1" 200 93
+[13/Sep/2017 21:32:37] "GET /keyboard HTTP/1.1" 200 48
+[13/Sep/2017 21:32:38] "POST /message HTTP/1.1" 200 93
+[13/Sep/2017 21:32:40] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 00:03:20] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 00:03:22] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 00:03:23] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 00:03:27] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 10:20:00] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 10:20:01] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 10:20:03] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 10:20:07] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 10:20:22] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 10:20:26] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 11:00:12] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 11:00:14] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 11:00:19] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 12:59:38] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 12:59:40] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 12:59:43] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 13:00:16] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 17:24:40] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 17:24:41] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 18:56:09] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 18:56:11] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 18:56:12] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 19:43:14] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 19:43:15] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 20:55:44] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 21:14:09] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 21:14:11] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:14:12] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:14:12] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:14:13] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:14:14] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:14:14] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:14:15] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:14:15] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:14:15] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:14:15] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:14:21] "GET /keyboard HTTP/1.1" 200 48
+Not Found: /friend
+[14/Sep/2017 21:14:27] "POST /friend HTTP/1.1" 404 2311
+[14/Sep/2017 21:14:27] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 21:14:29] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 21:14:32] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:14:43] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 21:14:45] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:14:47] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:14:57] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:14:58] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:14:59] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:15:00] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:15:01] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:15:02] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:15:02] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:15:03] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:15:03] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:15:04] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:15:04] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:15:05] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:15:05] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:21:50] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 21:21:51] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:21:52] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:21:53] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:21:54] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:21:55] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:21:56] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:21:56] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 21:21:57] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:21:58] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:22:02] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:22:35] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:25:20] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 21:33:21] "GET /message HTTP/1.1" 200 93
+Not Found: /favicon.ico
+[14/Sep/2017 21:33:22] "GET /favicon.ico HTTP/1.1" 404 2325
+[14/Sep/2017 21:34:02] "GET /message HTTP/1.1" 200 93
+[14/Sep/2017 21:47:08] "GET /keyboard HTTP/1.1" 200 48
+Not Found: /favicon.ico
+[14/Sep/2017 21:47:08] "GET /favicon.ico HTTP/1.1" 404 2322
+[14/Sep/2017 21:47:16] "GET /message HTTP/1.1" 200 93
+[14/Sep/2017 21:50:59] "GET /keyboard HTTP/1.1" 200 48
+Not Found: /favicon.ico
+[14/Sep/2017 21:50:59] "GET /favicon.ico HTTP/1.1" 404 2325
+[14/Sep/2017 21:51:03] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 21:51:18] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 21:51:19] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 21:52:37] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 21:52:38] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:52:42] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:52:42] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:52:43] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:52:44] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:52:45] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:52:46] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:52:47] "POST /message HTTP/1.1" 200 93
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 21:53:36] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 21:53:42] "POST /receive HTTP/1.1" 403 2857
+Not Found: /
+[14/Sep/2017 21:53:58] "GET / HTTP/1.1" 404 2274
+[14/Sep/2017 21:54:05] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 21:54:06] "GET /keyboard HTTP/1.1" 200 48
+Not Found: /
+[14/Sep/2017 21:54:09] "GET / HTTP/1.1" 404 2274
+Not Found: /
+[14/Sep/2017 21:54:39] "GET / HTTP/1.1" 404 2274
+[14/Sep/2017 21:57:46] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 21:57:47] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:57:48] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:57:49] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 21:59:33] "GET /keyboard HTTP/1.1" 200 48
+Forbidden (CSRF cookie not set.): /keyboard
+[14/Sep/2017 21:59:51] "POST /keyboard HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /keyboard
+[14/Sep/2017 22:00:04] "POST /keyboard HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /keyboard
+[14/Sep/2017 22:00:12] "POST /keyboard HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /keyboard
+[14/Sep/2017 22:00:24] "POST /keyboard HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /keyboard
+[14/Sep/2017 22:00:51] "POST /keyboard HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:01:18] "POST /receive HTTP/1.1" 403 2857
+Internal Server Error: /receive
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 83, in __getitem__
+    list_ = super(MultiValueDict, self).__getitem__(key)
+KeyError: 'status'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/DongMunYeol/chatbot/answer/views.py", line 37, in receive
+    isopen = request.POST['status']
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 85, in __getitem__
+    raise MultiValueDictKeyError(repr(key))
+django.utils.datastructures.MultiValueDictKeyError: "'status'"
+[14/Sep/2017 22:01:34] "GET /receive HTTP/1.1" 500 69434
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:03:22] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:03:38] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:03:47] "POST /receive HTTP/1.1" 403 2857
+[14/Sep/2017 22:03:53] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00®\x01\x00\x00ª\x03\x03GôO\x01\x99\x07\x81¤D\x167ÍÿËîÆPoíµ\x81b\x8bd12\x8a2BÍbí\x00\x00')
+[14/Sep/2017 22:03:53] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:08:12] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:08:32] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:09:07] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:09:16] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:09:24] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:09:48] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:09:50] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:10:07] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:10:10] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:10:10] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:10:14] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:10:47] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:10:54] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:11:02] "POST /receive HTTP/1.1" 403 2857
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 13, 2017 - 21:15:41
+Django version 1.11.5, using settings 'chatbot.settings'
+Starting development server at http://0.0.0.0:50/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function check_errors.<locals>.wrapper at 0x7f79df38ad08>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python3.5/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 665, in exec_module
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "/root/DongMunYeol/chatbot/chatbot/urls.py", line 19, in <module>
+    url(r'', include('answer.urls')),
+  File "/usr/local/lib/python3.5/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 665, in exec_module
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "/root/DongMunYeol/chatbot/answer/urls.py", line 2, in <module>
+    from . import views
+  File "/root/DongMunYeol/chatbot/answer/views.py", line 6
+    isopen = 0
+         ^
+SyntaxError: invalid syntax
+Performing system checks...
+
+[14/Sep/2017 22:17:08] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 22:17:09] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:17:11] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:17:12] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:17:12] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 22:17:12] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:17:13] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 22:17:13] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:17:14] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:17:17] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:17:18] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:17:19] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:17:19] "POST /message HTTP/1.1" 200 93
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:17:20] "POST /receive HTTP/1.1" 403 2857
+[14/Sep/2017 22:17:20] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:17:22] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:17:22] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:17:23] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:17:24] "POST /message HTTP/1.1" 200 93
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:17:27] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:17:36] "POST /receive HTTP/1.1" 403 2857
+[14/Sep/2017 22:18:51] code 400, message Bad request version ('jjÀ+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[14/Sep/2017 22:18:51] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 14, 2017 - 22:16:31
+Django version 1.11.5, using settings 'chatbot.settings'
+Starting development server at http://0.0.0.0:50/
+Quit the server with CONTROL-C.
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:19:44] "POST /receive HTTP/1.1" 403 2857
+Forbidden (CSRF cookie not set.): /receive
+[14/Sep/2017 22:20:16] "POST /receive HTTP/1.1" 403 2857
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 14, 2017 - 22:19:40
+Django version 1.11.5, using settings 'chatbot.settings'
+Starting development server at http://0.0.0.0:50/
+Quit the server with CONTROL-C.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 14, 2017 - 22:20:42
+Django version 1.11.5, using settings 'chatbot.settings'
+Starting development server at http://0.0.0.0:50/
+Quit the server with CONTROL-C.
+Internal Server Error: /receive
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 83, in __getitem__
+    list_ = super(MultiValueDict, self).__getitem__(key)
+KeyError: 'status'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/root/DongMunYeol/chatbot/answer/views.py", line 38, in receive
+    isopen = request.POST['status']
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 85, in __getitem__
+    raise MultiValueDictKeyError(repr(key))
+django.utils.datastructures.MultiValueDictKeyError: "'status'"
+[14/Sep/2017 22:21:28] "POST /receive HTTP/1.1" 500 73181
+Internal Server Error: /receive
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 83, in __getitem__
+    list_ = super(MultiValueDict, self).__getitem__(key)
+KeyError: 'status'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/root/DongMunYeol/chatbot/answer/views.py", line 38, in receive
+    isopen = request.POST['status']
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 85, in __getitem__
+    raise MultiValueDictKeyError(repr(key))
+django.utils.datastructures.MultiValueDictKeyError: "'status'"
+[14/Sep/2017 22:21:34] "POST /receive HTTP/1.1" 500 73181
+[14/Sep/2017 22:21:34] "POST /message HTTP/1.1" 200 93
+Internal Server Error: /receive
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 198, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view answer.views.receive didn't return an HttpResponse object. It returned None instead.
+[14/Sep/2017 22:21:38] "POST /receive HTTP/1.1" 500 53935
+Internal Server Error: /receive
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 198, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view answer.views.receive didn't return an HttpResponse object. It returned None instead.
+[14/Sep/2017 22:21:47] "POST /receive HTTP/1.1" 500 53935
+Internal Server Error: /receive
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 198, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view answer.views.receive didn't return an HttpResponse object. It returned None instead.
+[14/Sep/2017 22:21:52] "POST /receive HTTP/1.1" 500 53935
+Internal Server Error: /receive
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 83, in __getitem__
+    list_ = super(MultiValueDict, self).__getitem__(key)
+KeyError: 'status'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/root/DongMunYeol/chatbot/answer/views.py", line 38, in receive
+    isopen = request.POST['status']
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 85, in __getitem__
+    raise MultiValueDictKeyError(repr(key))
+django.utils.datastructures.MultiValueDictKeyError: "'status'"
+[14/Sep/2017 22:22:05] "POST /receive HTTP/1.1" 500 73181
+Internal Server Error: /receive
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 83, in __getitem__
+    list_ = super(MultiValueDict, self).__getitem__(key)
+KeyError: 'status'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/root/DongMunYeol/chatbot/answer/views.py", line 38, in receive
+    isopen = request.POST['status']
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 85, in __getitem__
+    raise MultiValueDictKeyError(repr(key))
+django.utils.datastructures.MultiValueDictKeyError: "'status'"
+[14/Sep/2017 22:22:55] "POST /receive HTTP/1.1" 500 73181
+Internal Server Error: /receive
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 83, in __getitem__
+    list_ = super(MultiValueDict, self).__getitem__(key)
+KeyError: 'status'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/root/DongMunYeol/chatbot/answer/views.py", line 38, in receive
+    isopen = request.POST['status']
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 85, in __getitem__
+    raise MultiValueDictKeyError(repr(key))
+django.utils.datastructures.MultiValueDictKeyError: "'status'"
+[14/Sep/2017 22:23:08] "POST /receive HTTP/1.1" 500 73181
+Internal Server Error: /receive
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 83, in __getitem__
+    list_ = super(MultiValueDict, self).__getitem__(key)
+KeyError: 'status'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/root/DongMunYeol/chatbot/answer/views.py", line 38, in receive
+    isopen = request.POST['status']
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 85, in __getitem__
+    raise MultiValueDictKeyError(repr(key))
+django.utils.datastructures.MultiValueDictKeyError: "'status'"
+[14/Sep/2017 22:23:14] "POST /receive HTTP/1.1" 500 73181
+Internal Server Error: /receive
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 83, in __getitem__
+    list_ = super(MultiValueDict, self).__getitem__(key)
+KeyError: 'status'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/root/DongMunYeol/chatbot/answer/views.py", line 38, in receive
+    isopen = request.POST['status']
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 85, in __getitem__
+    raise MultiValueDictKeyError(repr(key))
+django.utils.datastructures.MultiValueDictKeyError: "'status'"
+[14/Sep/2017 22:23:22] "POST /receive HTTP/1.1" 500 73181
+Internal Server Error: /receive
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 83, in __getitem__
+    list_ = super(MultiValueDict, self).__getitem__(key)
+KeyError: 'status'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/root/DongMunYeol/chatbot/answer/views.py", line 38, in receive
+    isopen = request.POST['status']
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 85, in __getitem__
+    raise MultiValueDictKeyError(repr(key))
+django.utils.datastructures.MultiValueDictKeyError: "'status'"
+[14/Sep/2017 22:23:27] "POST /receive HTTP/1.1" 500 73181
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 14, 2017 - 22:20:54
+Django version 1.11.5, using settings 'chatbot.settings'
+Starting development server at http://0.0.0.0:50/
+Quit the server with CONTROL-C.
+[14/Sep/2017 22:25:16] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 22:25:17] "POST /message HTTP/1.1" 200 93
+Internal Server Error: /receive
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 83, in __getitem__
+    list_ = super(MultiValueDict, self).__getitem__(key)
+KeyError: 'status'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 187, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 185, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/views/decorators/csrf.py", line 58, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/root/DongMunYeol/chatbot/answer/views.py", line 39, in receive
+    isopen = request.POST['status']
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/datastructures.py", line 85, in __getitem__
+    raise MultiValueDictKeyError(repr(key))
+django.utils.datastructures.MultiValueDictKeyError: "'status'"
+[14/Sep/2017 22:25:18] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:25:18] "POST /receive HTTP/1.1" 500 73171
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 14, 2017 - 22:25:04
+Django version 1.11.5, using settings 'chatbot.settings'
+Starting development server at http://0.0.0.0:50/
+Quit the server with CONTROL-C.
+Unhandled exception in thread started by <function check_errors.<locals>.wrapper at 0x7f53f5852d08>
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/autoreload.py", line 228, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/management/commands/runserver.py", line 125, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/management/base.py", line 359, in check
+    include_deployment_checks=include_deployment_checks,
+  File "/usr/local/lib/python3.5/dist-packages/django/core/management/base.py", line 346, in _run_checks
+    return checks.run_checks(**kwargs)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/checks/registry.py", line 81, in run_checks
+    new_errors = check(app_configs=app_configs)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/checks/urls.py", line 16, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/checks/urls.py", line 26, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/resolvers.py", line 254, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/resolvers.py", line 405, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.5/dist-packages/django/utils/functional.py", line 35, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.5/dist-packages/django/urls/resolvers.py", line 398, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 665, in exec_module
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "/root/DongMunYeol/chatbot/chatbot/urls.py", line 19, in <module>
+    url(r'', include('answer.urls')),
+  File "/usr/local/lib/python3.5/dist-packages/django/conf/urls/__init__.py", line 50, in include
+    urlconf_module = import_module(urlconf_module)
+  File "/usr/lib/python3.5/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 986, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 969, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 958, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 673, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 665, in exec_module
+  File "<frozen importlib._bootstrap>", line 222, in _call_with_frames_removed
+  File "/root/DongMunYeol/chatbot/answer/urls.py", line 2, in <module>
+    from . import views
+  File "/root/DongMunYeol/chatbot/answer/views.py", line 39
+    print(request.body)
+                      ^
+TabError: inconsistent use of tabs and spaces in indentation
+Performing system checks...
+
+[14/Sep/2017 22:29:42] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 22:29:45] "GET /keyboard HTTP/1.1" 200 48
+Internal Server Error: /receive
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 198, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view answer.views.receive didn't return an HttpResponse object. It returned None instead.
+[14/Sep/2017 22:29:54] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 22:29:54] "POST /receive HTTP/1.1" 500 53635
+Internal Server Error: /receive
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 198, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view answer.views.receive didn't return an HttpResponse object. It returned None instead.
+[14/Sep/2017 22:30:10] "POST /receive HTTP/1.1" 500 53935
+Internal Server Error: /receive
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 41, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 198, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view answer.views.receive didn't return an HttpResponse object. It returned None instead.
+[14/Sep/2017 22:30:34] "POST /receive HTTP/1.1" 500 53935
+[14/Sep/2017 22:33:23] "GET /keyboard HTTP/1.1" 200 48
+Performing system checks...
+
+System check identified no issues (0 silenced).
+September 14, 2017 - 22:29:34
+Django version 1.11.5, using settings 'chatbot.settings'
+Starting development server at http://0.0.0.0:50/
+Quit the server with CONTROL-C.
+b'------WebKitFormBoundarylz6B0Xl37YOgk4rL\r\nContent-Disposition: form-data; name="status"\r\n\r\n1\r\n------WebKitFormBoundarylz6B0Xl37YOgk4rL--\r\n'
+b'status=1'
+b'status=1'
+[14/Sep/2017 22:34:31] "POST /receive HTTP/1.1" 200 7
+[14/Sep/2017 22:34:42] "POST /receive HTTP/1.1" 200 7
+[14/Sep/2017 22:34:48] "GET /keyboard HTTP/1.1" 200 48
+[14/Sep/2017 22:34:49] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:34:50] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:34:54] "POST /receive HTTP/1.1" 200 7
+[14/Sep/2017 22:34:55] "POST /receive HTTP/1.1" 200 7
+[14/Sep/2017 22:34:56] "POST /receive HTTP/1.1" 200 7
+[14/Sep/2017 22:34:56] "POST /receive HTTP/1.1" 200 7
+[14/Sep/2017 22:34:57] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:35:13] "POST /receive HTTP/1.1" 200 7
+[14/Sep/2017 22:35:18] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:35:22] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:35:52] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:35:53] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:35:54] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:36:15] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:36:18] "POST /receive HTTP/1.1" 200 7
+[14/Sep/2017 22:36:22] "POST /message HTTP/1.1" 200 93
+[14/Sep/2017 22:36:30] "POST /receive HTTP/1.1" 200 7

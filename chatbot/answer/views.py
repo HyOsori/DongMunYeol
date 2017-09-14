@@ -1,5 +1,6 @@
 from django.http import JsonResponse
 from django.views.decorators.csrf import csrf_exempt
+from django.http import HttpResponse
 
 isopen = 0
 
@@ -33,6 +34,14 @@ def message(request):
         })
 
 
+@csrf_exempt
 def receive(request):
-    isopen = request.POST['status']
+    if(request.method == 'POST'):
+        print(request.body)
+        isopen = request.POST.get('status', False)
+
+        return HttpResponse("Success")
+
+    else:
+        return HttpResponse("Fail")
 # Create your views here.
